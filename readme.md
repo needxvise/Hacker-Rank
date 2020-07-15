@@ -1,4 +1,4 @@
-# HackerRank Challenges Solutions :raised_hands:
+# [HackerRank Challenges Solutions](https://www.hackerrank.com/) :raised_hands:
 
 Hi this is my collection of HackerRank Challenges Solution.
 
@@ -14,3 +14,5 @@ I create this collection for sharing as i continue learning and practicing in Ha
  ```
 
  More incoming..
+
+ Come and join us at www.hackerrank.com
