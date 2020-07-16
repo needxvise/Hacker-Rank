@@ -9,10 +9,14 @@ I create this collection for sharing as i continue learning and practicing in Ha
 📦Tutorials
  ┗ 📂10 Days of  Javascript
  ┃ ┣ 📂Day 0 - Data Types
- ┃ ┗ 📂Day 0 - Hello World
+ ┃ ┣ 📂Day 0 - Hello World
  ┃ ┣ 📂Day 1 - Arithmetic Operator
  ┃ ┣ 📂Day 1 - Functions
- ┃ ┗ 📂Day 1 - Let and Const
+ ┃ ┣ 📂Day 1 - Let and Const
+ ┃ ┣ 📂Day 2 - Conditional Statements If-Else
+ ┃ ┣ 📂Day 2 - Conditional Statements Switch
+ ┃ ┗ 📂Day 2 - Loops
+
  ```
 
  More incoming..
