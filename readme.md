@@ -10,7 +10,9 @@ I create this collection for sharing as i continue learning and practicing in Ha
  ┗ 📂10 Days of  Javascript
  ┃ ┣ 📂Day 0 - Data Types
  ┃ ┗ 📂Day 0 - Hello World
- ┃ ┃
+ ┃ ┣ 📂Day 1 - Arithmetic Operator
+ ┃ ┣ 📂Day 1 - Functions
+ ┃ ┗ 📂Day 1 - Let and Const
  ```
 
  More incoming..
