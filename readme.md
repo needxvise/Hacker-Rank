@@ -15,8 +15,11 @@ I create this collection for sharing as i continue learning and practicing in Ha
  ┃ ┣ 📂Day 1 - Let and Const
  ┃ ┣ 📂Day 2 - Conditional Statements If-Else
  ┃ ┣ 📂Day 2 - Conditional Statements Switch
- ┃ ┗ 📂Day 2 - Loops
-
+ ┃ ┣ 📂Day 2 - Loops
+ ┃ ┣ 📂Day 3 - Try, Catch, and Finally
+ ┃ ┣ 📂Day 3 -Arrays
+ ┃ ┗ 📂Day 3 -Throw
+ ┃ ┃ 
  ```
 
  More incoming..
