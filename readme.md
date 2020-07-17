@@ -17,8 +17,8 @@ I create this collection for sharing as i continue learning and practicing in Ha
  ┃ ┣ 📂Day 2 - Conditional Statements Switch
  ┃ ┣ 📂Day 2 - Loops
  ┃ ┣ 📂Day 3 - Try, Catch, and Finally
- ┃ ┣ 📂Day 3 -Arrays
- ┃ ┗ 📂Day 3 -Throw
+ ┃ ┣ 📂Day 3 - Arrays
+ ┃ ┗ 📂Day 3 - Throw
  ┃ ┃ 
  ```
 
