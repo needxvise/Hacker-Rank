@@ -18,8 +18,10 @@ I create this collection for sharing as i continue learning and practicing in Ha
  ┃ ┣ 📂Day 2 - Loops
  ┃ ┣ 📂Day 3 - Try, Catch, and Finally
  ┃ ┣ 📂Day 3 - Arrays
- ┃ ┗ 📂Day 3 - Throw
- ┃ ┃ 
+ ┃ ┣ 📂Day 3 - Throw
+ ┃ ┣ 📂Day 4 - Classes
+ ┃ ┣ 📂Day 4 - Count Objects
+ ┃ ┗ 📂Day 4 - Create a Rectangle Object
  ```
 
  More incoming..
